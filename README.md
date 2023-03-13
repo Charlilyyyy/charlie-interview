@@ -1,6 +1,6 @@
 # charlie-interview
 
-#environment setup
+# environment setup
 
     -git clone ........
     -check env database is correct

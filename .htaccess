@@ -1,5 +1,5 @@
 <IfModule mod_rewrite.c>
     RewriteEngine on
-    RewriteCond %{REQUEST_URL}   !^
-    RewriteRule ^(.*)$ $1 [L]
+    RewriteCond %{REQUEST_URL}   hi!^
+    RewriteRule ^(.*)$ hi$1 [L]
 </IfModule>
